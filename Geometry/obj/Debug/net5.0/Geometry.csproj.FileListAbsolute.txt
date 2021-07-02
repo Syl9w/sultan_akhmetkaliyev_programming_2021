@@ -1,0 +1,15 @@
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/obj/Debug/net5.0/Geometry.csproj.AssemblyReference.cache
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/obj/Debug/net5.0/Geometry.GeneratedMSBuildEditorConfig.editorconfig
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/obj/Debug/net5.0/Geometry.AssemblyInfoInputs.cache
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/obj/Debug/net5.0/Geometry.AssemblyInfo.cs
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/obj/Debug/net5.0/Geometry.csproj.CoreCompileInputs.cache
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/bin/Debug/net5.0/Geometry.deps.json
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/bin/Debug/net5.0/Geometry.runtimeconfig.json
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/bin/Debug/net5.0/Geometry.runtimeconfig.dev.json
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/bin/Debug/net5.0/Geometry.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/bin/Debug/net5.0/ref/Geometry.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/bin/Debug/net5.0/Geometry.pdb
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/obj/Debug/net5.0/Geometry.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/obj/Debug/net5.0/ref/Geometry.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/obj/Debug/net5.0/Geometry.pdb
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Geometry/obj/Debug/net5.0/Geometry.genruntimeconfig.cache

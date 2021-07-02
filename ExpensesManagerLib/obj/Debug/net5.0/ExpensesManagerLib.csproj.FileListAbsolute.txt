@@ -1,0 +1,12 @@
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/bin/Debug/net5.0/ExpensesManagerLib.deps.json
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/bin/Debug/net5.0/ExpensesManagerLib.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/bin/Debug/net5.0/ref/ExpensesManagerLib.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/bin/Debug/net5.0/ExpensesManagerLib.pdb
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/obj/Debug/net5.0/ExpensesManagerLib.csproj.AssemblyReference.cache
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/obj/Debug/net5.0/ExpensesManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/obj/Debug/net5.0/ExpensesManagerLib.AssemblyInfoInputs.cache
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/obj/Debug/net5.0/ExpensesManagerLib.AssemblyInfo.cs
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/obj/Debug/net5.0/ExpensesManagerLib.csproj.CoreCompileInputs.cache
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/obj/Debug/net5.0/ExpensesManagerLib.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/obj/Debug/net5.0/ref/ExpensesManagerLib.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/ExpensesManagerLib/obj/Debug/net5.0/ExpensesManagerLib.pdb

@@ -1,0 +1,15 @@
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/obj/Debug/net5.0/Sport.csproj.AssemblyReference.cache
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/obj/Debug/net5.0/Sport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/obj/Debug/net5.0/Sport.AssemblyInfoInputs.cache
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/obj/Debug/net5.0/Sport.AssemblyInfo.cs
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/obj/Debug/net5.0/Sport.csproj.CoreCompileInputs.cache
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/bin/Debug/net5.0/Sport.deps.json
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/bin/Debug/net5.0/Sport.runtimeconfig.json
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/bin/Debug/net5.0/Sport.runtimeconfig.dev.json
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/bin/Debug/net5.0/Sport.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/bin/Debug/net5.0/ref/Sport.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/bin/Debug/net5.0/Sport.pdb
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/obj/Debug/net5.0/Sport.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/obj/Debug/net5.0/ref/Sport.dll
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/obj/Debug/net5.0/Sport.pdb
+/Users/assel/Desktop/sultan_akhmetkaliyev_programming_2021/Sport/obj/Debug/net5.0/Sport.genruntimeconfig.cache
